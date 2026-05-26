@@ -37,6 +37,7 @@ Critical analysis and conceptual framework applying Graph Attention Networks and
 ### [RAG Metadata Explorer — Critical Review](https://github.com/SManojna/rag-metadata-explorer-review)
 Critical review of a 2024 IEEE Big Data paper on RAG-based metadata exploration — evaluates ChromaDB retrieval, LLM refinement, and embedding model comparisons across four dataset discovery tasks.  
 `ChromaDB` `SBERT` `BERT` `Llama 3` `OpenAI Embeddings` `Cosine Similarity`
+
 ---
 
 ### [Deep Learning | Neural Net Implementations](https://github.com/SManojna/neural-net-implementations)
