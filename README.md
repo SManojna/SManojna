@@ -41,4 +41,4 @@ distributed analytics platforms, and cloud-native infrastructure at GE Vernova
 and Infosys — now focused on building applied AI systems.
 
 📄 [LinkedIn](https://www.linkedin.com/in/sai-manojna-velagala/)  
-📧 vsmanojna1998@gmail.com
+📧 vsaimanojna@gmail.com
