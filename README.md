@@ -16,13 +16,27 @@ LLM Agents · RAG Pipelines · Production MLOps · MS Data Science & AI (4.0 GPA
 
 ## Featured Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| [ClaimCheck](https://github.com/SManojna/claimcheck) | Llama 3.1, FAISS, Next.js, SSE | Privacy-first RAG fact-verification pipeline |
-| [Flight Fare Prediction & LoRA](https://github.com/SManojna/Flight_fare_prediction_llm_comparision) | PyTorch, LoRA/PEFT, Gemini, Streamlit | Multi-model benchmark + transformer fine-tuning |
-| [Zeek Phishing Detection](https://github.com/SManojna/zeek-meta-graph-phishing-detection) | GAT, PyTorch Geometric, Zeek | Graph attention network for phishing infrastructure detection |
-| [RAG Metadata Explorer Review](https://github.com/SManojna/rag-metadata-explorer-review) | ChromaDB, SBERT, LLM | Critical review of RAG-based metadata exploration pipeline |
+### [ClaimCheck](https://github.com/SManojna/claimcheck)
+Full-stack AI fact-checker for YouTube videos — extracts claims, verifies each against the transcript using a local RAG pipeline, and returns verdicts with confidence scores and timestamp evidence. Conversational Q&A with full memory. Runs entirely on-device.  
+`Next.js 14` `TypeScript` `Llama 3.1:8b` `Ollama` `nomic-embed-text` `SSE` `Tailwind CSS` `shadcn/ui`
 
+---
+
+### [Flight Fare Prediction & LoRA Fine-Tuning](https://github.com/SManojna/Flight_fare_prediction_llm_comparision)
+Multi-model benchmark across RandomForest, K-Fold DNN, and Gemini (zero-shot / few-shot / CoT) for price-bucket classification. Fine-tuned a HuggingFace transformer using LoRA/PEFT — competitive accuracy with only 0.1% trainable parameters vs full fine-tune.  
+`PyTorch` `LoRA/PEFT` `HuggingFace` `Gemini API` `Streamlit` `Scikit-learn`
+
+---
+
+### [Zeek Phishing Infrastructure Detection](https://github.com/SManojna/zeek-meta-graph-phishing-detection)
+Critical analysis and conceptual framework applying Graph Attention Networks and meta-graph attention to Zeek network logs for detecting coordinated phishing campaigns from relational patterns.  
+`PyTorch Geometric` `GAT` `Zeek` `Graph Neural Networks` `Network Forensics`
+
+---
+
+### [RAG Metadata Explorer — Critical Review](https://github.com/SManojna/rag-metadata-explorer-review)
+Critical review of a 2024 IEEE Big Data paper on RAG-based metadata exploration — evaluates ChromaDB retrieval, LLM refinement, and embedding model comparisons across four dataset discovery tasks.  
+`ChromaDB` `SBERT` `BERT` `Llama 3` `OpenAI Embeddings` `Cosine Similarity`
 ---
 
 ## Tech Stack
