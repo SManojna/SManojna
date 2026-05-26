@@ -39,6 +39,14 @@ Critical review of a 2024 IEEE Big Data paper on RAG-based metadata exploration 
 `ChromaDB` `SBERT` `BERT` `Llama 3` `OpenAI Embeddings` `Cosine Similarity`
 ---
 
+### [Deep Learning from Scratch](https://github.com/SManojna/neural-net-implementations)
+Neural network engine, CNN architectures, and sequence models built entirely in NumPy — 
+no PyTorch, no autograd. Includes Conv2D transposed convolution backward pass, 
+BatchNorm2D, multi-head self-attention, LSTM/GRU from scratch, beam search, 
+and gradient checking.  
+`NumPy` `CNN` `LSTM` `Attention` `Backpropagation` `From Scratch`
+
+---
 ## Tech Stack
 
 **AI & ML:** PyTorch · LangGraph · LoRA/PEFT · RAG · pgvector · FAISS · HuggingFace · LLM Eval  
