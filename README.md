@@ -1,6 +1,15 @@
 # Sai Manojna Velagala
 
 **Software & Data Engineer turned AI Builder**  
+I build AI systems — agents, retrieval pipelines, and the infra to run them.
+
+Four years running analytics infrastructure at GE Vernova across 20+ 
+industrial plants taught me what breaks when AI meets the real world: 
+messy signals, silent drift, and follow-through that dies between shifts. 
+Now I build systems designed for exactly that environment.
+
+Currently finished MS in Data Science & AI (4.0 GPA) while shipping 
+agent-native projects. Open to AI engineer roles.
 LLM Agents · RAG Pipelines · Production MLOps · MS Data Science & AI (4.0 GPA)
 
 ---
