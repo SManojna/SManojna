@@ -25,6 +25,14 @@ LLM Agents · RAG Pipelines · Production MLOps · MS Data Science & AI (4.0 GPA
 
 ## Featured Projects
 
+### [Agentic Code Review System](https://github.com/SManojna/agentic-code-review)
+LangGraph ReAct agent that receives GitHub PR webhooks, fetches diffs, 
+retrieves the top-3 most similar past reviews via pgvector similarity search, 
+and posts a context-aware review comment — all orchestrated through a custom 
+MCP server. Includes a feedback loop (thumbs up/down votes stored in Supabase) 
+and a deployed Next.js dashboard showing review history and a 7-day activity chart.  
+`LangGraph` `MCP` `GPT-4o` `pgvector` `FastAPI` `Supabase` `Next.js` `Cloud Run`
+
 ### [ClaimCheck](https://github.com/SManojna/claimcheck)
 Full-stack AI fact-checker for YouTube videos — extracts claims, verifies each against the transcript using a local RAG pipeline, and returns verdicts with confidence scores and timestamp evidence. Conversational Q&A with full memory. Runs entirely on-device.  
 `Next.js 14` `TypeScript` `Llama 3.1:8b` `Ollama` `nomic-embed-text` `SSE` `Tailwind CSS` `shadcn/ui`
