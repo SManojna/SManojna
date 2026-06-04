@@ -25,7 +25,7 @@ LLM Agents · RAG Pipelines · Production MLOps · MS Data Science & AI (4.0 GPA
 
 ## Featured Projects
 
-### [Agentic Code Review System](https://github.com/SManojna/agentic-code-review)
+### [Agentic Code Review System](https://github.com/SManojna/code-review-bot.git)
 LangGraph ReAct agent that receives GitHub PR webhooks, fetches diffs, 
 retrieves the top-3 most similar past reviews via pgvector similarity search, 
 and posts a context-aware review comment — all orchestrated through a custom 
